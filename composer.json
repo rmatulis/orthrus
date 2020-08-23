@@ -1,5 +1,5 @@
 {
-    "name": "michaelcooke/orthrus",
+    "name": "rmatulis/orthrus",
     "description": "A simple opinionated implementation of ESI for Laravel",
     "keywords": ["laravel", "laravel-5", "esi", "eseye", "eve", "eve-online"],
     "license": "MIT",
